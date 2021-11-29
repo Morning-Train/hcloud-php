@@ -1,5 +1,5 @@
 {
-    "name": "exploriment/hcloud-php",
+    "name": "morningtrain/hcloud-php",
     "description": "PHP library for the Hetzner Cloud API",
     "keywords": [
         "exploriment",
